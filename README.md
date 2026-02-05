@@ -70,25 +70,6 @@ Frontend developer and maintainer of a bibliographic catalog system used by a pu
 - Maintained and iterated the system based on real usage
 
 
----
-
-## 🛠 How I Like to Work
-
-- Prefer clarity over clever abstractions
-- Keep UI, state, and data concerns separated
-- Use TypeScript to model real domains
-- Refactor continuously, not reactively
-- Focus on long-term maintainability
-
----
-
-## 📈 Currently Improving
-
-- Advanced React patterns
-- **Next.js App Router and server/client boundaries**
-- Authentication strategies
-- Better frontend–backend contracts
-- Performance and UX edge cases
 
 
 
