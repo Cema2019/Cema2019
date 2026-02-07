@@ -18,37 +18,13 @@ I enjoy working on systems that are actually used — where maintainability, cla
 
 ## ⌘ Tech Stack
 
-### ▸ Frontend
-- React
-- **Next.js** (working knowledge)
-- TypeScript
-- Vite
-- Material UI
-- Tailwind CSS
-- CSS (responsive & accessible layouts)
-
-### ▸ State & Forms
-- React Hooks
-- Context API
-- Controlled & uncontrolled forms
-- Validation patterns and UX-friendly errors
-
-### ▸ Data & APIs
-- REST APIs
-- Axios
-- Auth with HTTP-only cookies & sessions
-- Pagination, loading & error states
-
-### ▸ Tooling
-- Git & GitHub
-- ESLint
-- Feature-based project structure
-
-### ▸ Backend Exposure
-- FastAPI
-- Node.js
-- MySQL
-- Clear understanding of frontend ↔ backend boundaries
+| Area | Tools |
+|-----|------|
+| Frontend | React · Next.js · TypeScript · Vite · MUI · Tailwind · CSS |
+| State & Forms | React Hooks · Context API · Forms · Validation |
+| Data & APIs | REST · Axios · Auth (cookies) · Pagination |
+| Tooling | Git · GitHub · ESLint |
+| Backend Exposure | FastAPI · Node.js · MySQL |
 
 ---
 
