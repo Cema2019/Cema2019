@@ -24,7 +24,7 @@ I enjoy working on systems that are actually used — where maintainability, cla
 | State & Forms | React Hooks · Context API · Forms · Validation |
 | Data & APIs | REST · Axios · Auth (cookies) · Pagination |
 | Tooling | Git · GitHub · ESLint |
-| Backend Exposure | FastAPI · Node.js · MySQL |
+| Backend Exposure | FastAPI · Node.js · Express · NestJS · MySQL · PostgreSQL |
 
 ---
 
